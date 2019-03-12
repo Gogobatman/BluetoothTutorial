@@ -149,3 +149,4 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+// https://github.com/mitchtabian/Bluetooth---Discover-Devices/blob/master/Bluetooth-DiscoverDevices/app/src/main/java/com/example/user/bluetooth_discoverdevices/MainActivity.java
